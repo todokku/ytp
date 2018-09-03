@@ -69,5 +69,6 @@ gem 'activeadmin'
 gem 'yt', '~> 0.28.0'
 gem 'semantic-ui-sass'
 
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
